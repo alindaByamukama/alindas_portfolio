@@ -22,4 +22,5 @@ Users can contact me via the form on the website if they need help or just want 
 
 ### Who maintains and contributes to the project
 This project is maintained and built by <a href='https://github.com/alindaByamukama/alindaByamukama' target='_blank'>Alinda Byamukama</a>.
-Resource/ source of inspiration is <a href='https://www.eina.ca/' title='Einas website'>Eina</a>.
+
+##### Resource/ source of inspiration is <a href='https://www.eina.ca/' title='Einas website'>Eina</a>.
