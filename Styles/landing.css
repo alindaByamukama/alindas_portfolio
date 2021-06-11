@@ -67,7 +67,6 @@ html {
     font-size: .8em;
 }
 body {
-    font-size: 1.3em;
     color: #443d3d;
     letter-spacing: .037em;
 }
@@ -141,15 +140,10 @@ footer a {
 .social-handle {
     margin: 0;
 }
-
-/* LINK STYLES */
-a {
-
-}
 /* TABLET LAYOUT */
 @media screen and (min-width: 40rem) {
-    html {
-        font-size: 1em;
+    body {
+        font-size: 1.4em;
     }
     .body-wrapper {
         margin: 2.5rem auto;
@@ -188,5 +182,5 @@ a {
     .nav-links {
         font-family: 'Lato', sans-serif;
         color: inherit;
-        
+    }
 }
