@@ -1,3 +1,15 @@
+/* --bg: #f3f0f0;
+--brand-color: #FF6F61;
+--brand-complement: #2d4c77;
+--header-color: #1d314c;
+--body-color: #443d3d;
+--link-color: #FF6F61;
+--link-hover: #61a3ff;
+--link-teal: #2e747a;
+--link-teal-hover: #2d4c77;
+--code-bg: #e5dfde;
+--code-color: #2e747a; */
+
 /* GENERAL */
 *, ::before, ::after{
     box-sizing: border-box;
