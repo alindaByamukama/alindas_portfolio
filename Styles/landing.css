@@ -1,3 +1,15 @@
+/* --bg: #f3f0f0;
+--brand-color: #FF6F61;
+--brand-complement: #2d4c77;
+--header-color: #1d314c;
+--body-color: #443d3d;
+--link-color: #FF6F61;
+--link-hover: #61a3ff;
+--link-teal: #2e747a;
+--link-teal-hover: #2d4c77;
+--code-bg: #e5dfde;
+--code-color: #2e747a; */
+
 /* GENERAL */
 *, ::before, ::after{
     box-sizing: border-box;
@@ -146,17 +158,15 @@ footer a {
         background: 0 0;
     }
     .nav-links{
-        
-            text-decoration: none;
-            background-color: transparent;
-            background-image: linear-gradient(#f3f0f0 50%,#FF6F61 50%);
-            background-repeat: repeat-x;
-            background-position: right bottom -.8px;
-            background-size: 25% 25%;
-            color: inherit;
-            position: relative;
-        }
-
+        text-decoration: none;
+        background-color: transparent;
+        background-image: linear-gradient(#f3f0f0 50%,#FF6F61 50%);
+        background-repeat: repeat-x;
+        background-position: right bottom -.8px;
+        background-size: 25% 25%;
+        color: inherit;
+        position: relative;
+    }
     #hero-container {
         margin: 8% 0 6%;
     }
