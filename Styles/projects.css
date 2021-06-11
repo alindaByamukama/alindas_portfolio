@@ -1,3 +1,18 @@
+/* hero section */
+#hero-container {
+    margin: 10% 0;
+}
+/* page title */
+.page-title {
+    margin: 1.25em 0 1em;
+    font-family: lato;
+    font-size: 1.5em;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: .073em;
+    line-height: 1.05;
+    opacity: .75;
+}
 /* IMAGES */
 img {
     width: 100%;
