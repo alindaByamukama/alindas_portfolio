@@ -1,0 +1,10 @@
+/* HERO SECTION */
+.hero {
+    text-align: center;
+}
+/* IMAGES */
+.my-img {
+    width: 50%;
+    border-radius: 50%;
+    margin: 2rem 0 2rem 0;
+}
